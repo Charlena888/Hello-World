@@ -1,2 +1,3 @@
 # Hello-World
 A new repository
+Hello World! My name is Charlena Nicholas and I am a Computer Science and Information Security Major at John Jay. I am transferring with an associates in Theater from Kingsborough Community College. I am also a veteran of the United States Marine Corps. I love technology and can say with confidence that it is an everyday part of my life as it is for many of us in the world. All throughout my life I have been interested in ways that I can infuse technology into a future career and after the military and dabbling in the arts I decided a Computer Science degree was the way to go. So far, so good! I am looking forward to seeing where this journey takes me. 
